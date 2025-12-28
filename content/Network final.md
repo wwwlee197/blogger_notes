@@ -1,7 +1,6 @@
 ## 題目
-![](upload_6e79f530796e49e1703b6ad692b9705d.png)
-![](upload_8611dfb235f71297172d8947fa120bc3.png)
-
+![](assets/Network%20final/file-20251229020132285.png)
+![](assets/Network%20final/file-20251229020137562.png)
 一、設定基本資訊
 1. 設定路由器/交換器名稱：R1、R2、R3、R4、R5、S1、S2、S3
 2. 參考拓樸，設定路由器的IP位址，並啟動介面
